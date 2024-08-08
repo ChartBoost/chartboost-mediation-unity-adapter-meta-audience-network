@@ -1,0 +1,26 @@
+{
+    "name": "Chartboost.Mediation.MetaAudienceNetwork.Android",
+    "rootNamespace": "Chartboost.Mediation.MetaAudienceNetwork.Android",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.MetaAudienceNetwork",
+        "Chartboost.Mediation",
+        "Chartboost.Mediation.Android",
+        "Chartboost.Utilities.Android"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

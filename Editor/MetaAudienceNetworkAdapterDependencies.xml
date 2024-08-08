@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+    <androidPackages>
+        <!-- Android Adapter -->
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-meta-audience-network:5.6.17.+"/>
+    </androidPackages>
+    <iosPods>
+        <!-- iOS Adapter -->
+        <iosPod name="ChartboostMediationAdapterMetaAudienceNetwork" version="~> 5.6.15.0"/>
+
+        <!-- Partner iOS SDK-->
+        <iosPod name="FBAudienceNetwork" version="~> 6.15.0" addToAllTargets="false"/>
+    </iosPods>
+</dependencies>

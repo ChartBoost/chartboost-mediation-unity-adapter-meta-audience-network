@@ -1,0 +1,25 @@
+{
+    "name": "Chartboost.Mediation.MetaAudienceNetwork.IOS",
+    "rootNamespace": "Chartboost.Mediation.MetaAudienceNetwork.IOS",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.MetaAudienceNetwork",
+        "Chartboost.Mediation",
+        "Chartboost.Utilities.IOS"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
