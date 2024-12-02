@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.0.1 *(2024-11-01)*
+This version of the Meta Audience Network Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-meta-audience-network:chartboost-mediation-adapter-meta-audience-network:5.6.18.+`
+  * iOS: `ChartboostMediationAdapterMetaAudienceNetwork: ~> 5.6.15.0`
+
 ### Version 5.0.0 *(2024-08-08)*
 
 First version of the Chartboost Mediation Unity SDK - Meta Audience Network Adapter.
