@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - Meta Audience Network Adapt
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.meta-audience-network": "5.0.0",
+    "com.chartboost.mediation.unity.adapter.meta-audience-network": "5.0.2",
     ...
 },
 "scopedRegistries": [
