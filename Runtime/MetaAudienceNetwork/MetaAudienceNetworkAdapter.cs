@@ -13,7 +13,7 @@ namespace Chartboost.Mediation.MetaAudienceNetwork
         /// <summary>
         /// The partner adapter Unity version.
         /// </summary>
-        public const string AdapterUnityVersion = "5.0.1";
+        public const string AdapterUnityVersion = "5.0.2";
         
         /// <inheritdoc cref="IPartnerAdapterConfiguration.AdapterNativeVersion"/>
         public static string AdapterNativeVersion => Instance.AdapterNativeVersion;
