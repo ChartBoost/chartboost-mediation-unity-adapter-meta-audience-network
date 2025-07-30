@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.meta-audience-network",
-    "version": "5.0.2",
+    "version": "5.0.3",
     "displayName": "Chartboost Mediation Adapter - Meta Audience Network",
     "description": "The Chartboost Mediation Unity SDK Adapter for Meta Audience Network.",
     "unity": "2022.3",
