@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.0.7 *(2025-12-08)*
+This version of the Meta Audience Network Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-meta-audience-network:5.6.21.+`
+  * iOS: `ChartboostMediationAdapterMetaAudienceNetwork: ~> 5.6.21.0`
+
 ### Version 5.0.6 *(2025-10-29)*
 This version of the Meta Audience Network Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-meta-audience-network:5.6.21.+`

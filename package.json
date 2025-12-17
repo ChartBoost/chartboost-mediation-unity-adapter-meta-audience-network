@@ -1,11 +1,11 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.meta-audience-network",
-    "version": "5.0.6",
+    "version": "5.0.7",
     "displayName": "Chartboost Mediation Adapter - Meta Audience Network",
     "description": "The Chartboost Mediation Unity SDK Adapter for Meta Audience Network.",
     "unity": "2022.3",
     "documentationUrl": "https://docs.chartboost.com/en/mediation/integrate/unity/get-started/",
-    "changelogUrl": "https://docs.chartboost.com/en/mediation/integrate/unity/changelog/",
+    "changelogUrl": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-meta-audience-network/blob/main/CHANGELOG.md",
     "licensesUrl": "https://docs.chartboost.com/en/legal/",
     "dependencies": {
         "com.chartboost.mediation" : "5.0.0",
